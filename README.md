@@ -29,3 +29,4 @@ cp .env.local.sample .env.local
 ```sh
 pnpm dev
 ```
+End
